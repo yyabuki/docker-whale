@@ -1,3 +1,3 @@
 # docker-whale
 
-test
+This is a test for building a Docker image automatically.
